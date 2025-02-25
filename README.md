@@ -7,6 +7,9 @@ In this project, let's build a **Match Game** by applying the concepts we have l
   <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
     <source src="https://assets.ccbp.in/frontend/content/react-js/match-game-output.mp4" type="video/mp4">
   </video>
+  Game UI --
+  [image](https://github.com/user-attachments/assets/13d9c9bd-8c1d-4271-a094-9c66ecc466e0) <br/>
+  ScoreCard UI --
   ![image](https://github.com/user-attachments/assets/e7f391a7-add7-454a-a55e-efa0f37319c3)
   
 </div>
